@@ -1,0 +1,12 @@
+# Core (Tier 1 — the submitted run)
+numpy
+scipy
+scikit-learn
+
+# Optional: Tier 2 (InLegalBERT)
+# torch
+# transformers
+# Optional: Tier 1.5 (embedding reranker)
+# sentence-transformers
+# Optional: Tier 3 (LLM refinement)
+# anthropic
