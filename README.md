@@ -99,7 +99,9 @@ If you use this code, please cite the working notes paper:
 
 ```bibtex
 @inproceedings{kalita2026sycolex,
-  title     = {KunjanKalita at SYCOLEX 2026: TODO full title},
+  title     = {KunjanKalita at SYCOLEX 2026: KunjanKalita at SYCOLEX 2026: When Words Are Not
+Enough - A Lightweight TF-IDF Baseline and Error
+Analysis for Explainable Statute Prediction},
   author    = {Kalita, Kunjan},
   booktitle = {Working Notes of FIRE 2026 - Forum for Information Retrieval Evaluation},
   year      = {2026}
